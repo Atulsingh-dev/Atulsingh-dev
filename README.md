@@ -5,6 +5,8 @@
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
+<br>
+
 <div style="border: 2px solid #22F700; border-radius: 10px; padding: 20px; margin-bottom: 20px;">
   <div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&color=000000" alt="Python" />
@@ -45,7 +47,7 @@
 <h2 id="connect" align=''> Connect with Me 🌐</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Atulsingh-dev" target="_blank">
