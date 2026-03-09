@@ -58,10 +58,25 @@ I enjoy building projects that streamline workflows and create clear, impactful 
 </div>
 
 
-<h2 id="github_stats" align=''> Stats 👨‍💻</h2>
 
-<!-- Decorative image (optional) -->
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
+
+
+<h2 id="connect" align=''> Connect with Me 🌐</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Atulsingh-dev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+
+
+
+
+<h2 id="github_stats" align=''> Stats 👨‍💻</h2>
 
 <!-- Overall GitHub stats -->
 ![My Stats](https://github-readme-stats.vercel.app/api?username=Atulsingh-dev&theme=vision-friendly-dark&bg_color=00000000&hide_border=false&custom_title=Overall)
@@ -75,3 +90,9 @@ I enjoy building projects that streamline workflows and create clear, impactful 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulsingh-dev&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=false" width="450" />
   </a>
 </p>
+
+
+
+
+
+
