@@ -58,10 +58,9 @@ I enjoy building projects that streamline workflows and create clear, impactful 
 </div>
 
 
-
 <h2 id="github_stats" align=''> Stats 👨‍💻</h2>
 
-<!-- Optional decorative image -->
+<!-- Decorative image (optional) -->
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
 
 <!-- Overall GitHub stats -->
