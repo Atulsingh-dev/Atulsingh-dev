@@ -13,19 +13,17 @@
       <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&color=000000" alt="SQL" />
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&color=000000" alt="Excel" />
       <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&color=000000" alt="Power BI" />
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&color=000000" alt="Tableau" />
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&color=000000" alt="R" />
       <img src="https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=readthedocs&color=000000" alt="Statistics" />
-      <img src="https://img.shields.io/badge/Predictive%20Analytics-FF5733?style=for-the-badge&logo=chartdotjs&color=000000" alt="Predictive Analytics" />
-      <img src="https://img.shields.io/badge/Data%20Visualization-FFAA33?style=for-the-badge&logo=chartdotjs&color=000000" alt="Data Visualization" />
+      <img src="https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge&logo=chartdotjs&color=000000" alt="Data Visualization" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&color=000000" alt="Jupyter Notebook" />
       <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&color=000000" alt="Google Sheets" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&color=000000" alt="Linux" />
-      <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&color=000000" alt="Supabase" />
       <img src="https://img.shields.io/badge/Business%20Analysis-007ACC?style=for-the-badge&logo=google-analytics&color=000000" alt="Business Analysis" />
   </div>
 </div>
 
----
 
 <h2 id="github_stats" align=''> Stats 👨‍💻</h2>
 
@@ -43,17 +41,6 @@
 </p>
 
 ---
-
-<h2 id="connect" align=''> Connect with Me 🌐</h2>
-
-<p align="left">
-  <a href="" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Atulsingh-dev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 
 
