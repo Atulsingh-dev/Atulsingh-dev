@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img align='center' width="50%" src="https://readme-typing-svg.demolab.com?font=Bank+Gothic&pause=1000&color=FF2222&width=435&lines=Myslef+Mukund+Vishwakarma" alt="Typing SVG" />
+    <img align='center' width="50%" src="https://readme-typing-svg.demolab.com?font=Bank+Gothic&pause=1000&color=FF2222&width=435&lines=Myslef+Atulsingh-dev" alt="Typing SVG" />
   </a>
 </div>
 
@@ -46,7 +46,8 @@ I enjoy building projects that streamline workflows and create clear, impactful 
       <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&color=000000" alt="Excel" />
       <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&color=000000" alt="Power BI" />
       <img src="https://img.shields.io/badge/Statistics-4B0082?style=for-the-badge&logo=readthedocs&color=000000" alt="Statistics" />
-      <img src="https://img.shields.io/badge/Data%20Visualization-FF5733?style=for-the-badge&logo=chartdotjs&color=000000" alt="Data Visualization" />
+      <img src="https://img.shields.io/badge/Predictive%20Analytics-FF5733?style=for-the-badge&logo=chartdotjs&color=000000" alt="Predictive Analytics" />
+      <img src="https://img.shields.io/badge/Data%20Visualization-FFAA33?style=for-the-badge&logo=chartdotjs&color=000000" alt="Data Visualization" />
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&color=000000" alt="Git" />
       <img src="https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&color=000000" alt="Jupyter Notebook" />
       <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&color=000000" alt="Google Sheets" />
@@ -57,12 +58,22 @@ I enjoy building projects that streamline workflows and create clear, impactful 
 </div>
 
 
+
 <h2 id="github_stats" align=''> Stats 👨‍💻</h2>
+
+<!-- Optional decorative image -->
 <img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
 
-  ![My Stats](https://github-readme-stats.vercel.app/api?username=Atulsingh-dev&theme=vision-friendly-dark&&bg_color=00000000&hide_border=false&custom_title=Overall)
-  
-  [![Streak](https://streak-stats.demolab.com?user=Atulsingh-dev&theme=dark&card_width=450&bg_color=00000000&hide_border=flase)](https://git.io/streak-stats) 
- <p align="left"><a href="https://github.com/Atulsingh-dev/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulsingh-dev&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=false" width="450"" /></a></p>
+<!-- Overall GitHub stats -->
+![My Stats](https://github-readme-stats.vercel.app/api?username=Atulsingh-dev&theme=vision-friendly-dark&bg_color=00000000&hide_border=false&custom_title=Overall)
 
-<br><br>
+<!-- GitHub streak stats -->
+[![Streak](https://streak-stats.demolab.com?user=Atulsingh-dev&theme=dark&card_width=450&bg_color=00000000&hide_border=false)](https://git.io/streak-stats)
+
+<!-- Top languages -->
+<p align="left">
+  <a href="https://github.com/Atulsingh-dev/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulsingh-dev&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=false" width="450" />
+  </a>
+</p>
+
