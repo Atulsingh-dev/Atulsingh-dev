@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img align='center' width="50%" src="https://readme-typing-svg.demolab.com?font=Bank+Gothic&pause=1000&color=FF2222&width=435&lines=Myslef+Atul singh" alt="Typing SVG" />
+    <img align='center' width="50%" src="https://readme-typing-svg.demolab.com?font=Bank+Gothic&pause=1000&color=FF2222&width=435&lines=Myslef+Atulsingh" alt="Typing SVG" />
   </a>
 </div>
 
