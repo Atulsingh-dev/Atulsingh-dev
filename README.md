@@ -37,12 +37,14 @@ Currently building projects to showcase my learning journey and enhance my portf
 
 <h2 id="present_status"> Current Focus </h2>
 
-👉 Designing impactful **data analytics projects** that solve real business problems.  
-👉 Expanding expertise in **SQL,Python, Power BI, and Supabase** to master modern data workflows.  
-👉 Building **automation scripts and dashboards** that empower communities and streamline tasks.  
-👉 Laying the foundation for advanced **predictive analytics and business intelligence**.  
 
-🎯 **Ultimate Goal:** To grow into a leading Data & Business Analyst who transforms data into strategy.
+• Designing impactful **data analytics projects** that address real business problems.  
+• Expanding expertise in **SQL, Python, Power BI, and Supabase** to develop modern data workflows.  
+• Building **automation scripts and analytical dashboards** to improve efficiency and streamline processes.  
+• Establishing a strong foundation in **predictive analytics and business intelligence**.
+
+**Career Objective:** To grow into a skilled **Data and Business Analyst** capable of transforming complex data into actionable business strategies.
+
 
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
