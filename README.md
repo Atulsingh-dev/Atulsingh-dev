@@ -21,7 +21,7 @@ Currently building projects to showcase my learning journey and enhance my portf
 - **From**: India  
 - Improving knowledge in **SQL, Power BI, Supabase, and Predictive Analytics**  
 - 🌱 I’m currently learning **advanced dashboards & workflow automation**  
-- Reach me out on **[LinkedIn](https://www.linkedin.com/in/your-linkedin-username)**  
+- Reach me out on **[LinkedIn](https://www.linkedin.com/in/atul-singh-00a895220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)**  
 - [Portfolio](https://github.com/Atulsingh-dev)
 
 </details>
@@ -33,14 +33,17 @@ Currently building projects to showcase my learning journey and enhance my portf
 
 <img width="25%" align='right' src="https://i.imgur.com/1ToWEWw.png"/>
 
-👉 Focused on building **data analytics projects**.  
-👉 Pursuing advanced skills in **SQL, Power BI, Supabase**.  
-👉 Writing useful scripts and dashboards for communities.  
-👉 Creating a base to hop into **predictive analytics & business insights**.  
-
-`👉 Goal:` To become a professional Data & Business Analyst.
-
 ---
+
+<h2 id="present_status"> Current Focus </h2>
+
+👉 Designing impactful **data analytics projects** that solve real business problems.  
+👉 Expanding expertise in **SQL,Python, Power BI, and Supabase** to master modern data workflows.  
+👉 Building **automation scripts and dashboards** that empower communities and streamline tasks.  
+👉 Laying the foundation for advanced **predictive analytics and business intelligence**.  
+
+🎯 **Ultimate Goal:** To grow into a leading Data & Business Analyst who transforms data into strategy.
+
 
 <h2 id="knowledge_skills" align=''> Knowledge & Skills </h2>
 
