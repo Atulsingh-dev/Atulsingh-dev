@@ -66,13 +66,6 @@ Currently building projects to showcase my learning journey and enhance my portf
 
 ---
 
-<h2 id="github_stats" align=''> Stats 👨‍💻</h2>
-
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=Atulsingh-dev&theme=vision-friendly-dark&bg_color=00000000&hide_border=false&custom_title=Overall)
-
-[![Streak](https://streak-stats.demolab.com?user=Atulsingh-dev&theme=dark&card_width=450&bg_color=00000000&hide_border=false)](https://git.io/streak-stats)
 
 <p align="left">
   <a href="https://github.com/Atulsingh-dev/github-readme-stats">
