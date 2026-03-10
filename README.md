@@ -66,26 +66,14 @@ Currently building projects to showcase my learning journey and enhance my portf
 
 ---
 
-<h2 id="github_stats" align=''> Stats 👨‍💻</h2>
 
-<img align="right" width="44%" src="https://i.imgur.com/1ToWEWw.png"/>
-
-![My Stats](https://github-readme-stats.vercel.app/api?username=Atulsingh-dev&theme=vision-friendly-dark&bg_color=00000000&hide_border=false&custom_title=Overall)
-
-[![Streak](https://streak-stats.demolab.com?user=Atulsingh-dev&theme=dark&card_width=450&bg_color=00000000&hide_border=false)](https://git.io/streak-stats)
-
-<p align="left">
-  <a href="https://github.com/Atulsingh-dev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atulsingh-dev&layout=compact&theme=vision-friendly-dark&bg_color=00000000&hide_border=false" width="450" />
-  </a>
-</p>
 
 ---
 
 <h2 id="connect" align=''> 🌐 Connect with Me </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/atul-singh-123456789" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Atulsingh-dev" target="_blank">
