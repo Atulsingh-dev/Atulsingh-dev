@@ -66,6 +66,7 @@ Currently building projects to showcase my learning journey and enhance my portf
 
 ---
 
+[![Streak](https://streak-stats.demolab.com?user=Atulsingh-dev&theme=dark&card_width=450&bg_color=00000000&hide_border=false)](https://git.io/streak-stats)
 
 <p align="left">
   <a href="https://github.com/Atulsingh-dev/github-readme-stats">
