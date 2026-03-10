@@ -79,7 +79,7 @@ Currently building projects to showcase my learning journey and enhance my portf
 <h2 id="connect" align=''> 🌐 Connect with Me </h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/atul-singh-123456789" target="_blank">
+  <a href="https://www.linkedin.com/in/[atul-singh-123456789](https://www.linkedin.com/in/atul-singh-00a895220?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/Atulsingh-dev" target="_blank">
